@@ -1,0 +1,15 @@
+{
+  "msgName": "CustomMessage",
+  "objName": "app:cusMsg",
+  "persistentFlag": 3,
+  "package": "cn.rongcloud.im.im.message",
+  "param": {
+    "name": "string",
+    "uid": "string",
+    "isVip" : "bool",
+    "age": "int",
+    "price": "double",
+    "dataMap": "map",
+    "dataList": "list"
+  }
+}
